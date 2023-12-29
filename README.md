@@ -1,5 +1,3 @@
-I’m a third-year undergrad at Indiana University Bloomington, studying pure mathematics and computer science.
+I’m a senior undergrad at Indiana University Bloomington, studying pure mathematics and computer science. I am looking for work --- please hire me.
 
-If you're emailing me and you got this email from GitHub or my webpage, please put the word "cactus" in your email so I know you aren't scraping my email off a list. (Or use PGP.)
-
-My personal repos are at https://git.bicompact.space.
+![yggdrasil](yggdrasil.jpg)
