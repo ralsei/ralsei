@@ -1,3 +1,11 @@
-high school mathematics teacher, reformed computer toucher/formal methods person, deeply inscrutable, water drinker. account is primarily an archive -- please don't ask me about my projects, i don't really program anymore
+this account is primarily an archive: please don't ask me about my projects, i don't really program anymore.
 
-![yggdrasil](yggdrasil.jpg)
+i am:
+- a high school mathematics teacher
+- a reformed computer toucher
+- occasionally bordering on didactic but simultaneously deeply inscrutable
+- tired
+
+<p align="center">
+<img src="yggdrasil.jpg" style="width: 50%;" />
+</p>
