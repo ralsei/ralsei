@@ -1,3 +1,3 @@
-I’m a senior undergrad at Indiana University Bloomington, studying pure mathematics and computer science. I am looking for work --- please hire me.
+high school mathematics teacher, reformed computer toucher/formal methods person, deeply inscrutable, water drinker
 
 ![yggdrasil](yggdrasil.jpg)
