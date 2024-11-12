@@ -1,6 +1,5 @@
-i am a:
-- reformed computer toucher
-- occasionally bordering on didactic but simultaneously deeply inscrutable
+i am:
+- a reformed computer toucher
 - tired
 
 <p align="center">
